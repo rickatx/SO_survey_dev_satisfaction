@@ -31,13 +31,13 @@ This project explores job satisfaction among different developer types, using da
 
 The added visualizations include a  significance relation digraph paired to a bar chart:
 
-![ac_graph_reduced](C:\Users\USER\dev\notebooks\Udacity Data Scientist Nanodegree\Projects\SO_survey_dev_satisfaction\images\ac_graph_reduced.png)
+![ac_graph_reduced](./images/ac_graph_reduced.png)	
 
-![ac_cluster_bar_chart](C:\Users\USER\dev\notebooks\Udacity Data Scientist Nanodegree\Projects\SO_survey_dev_satisfaction\images\ac_cluster_bar_chart.png)
+![ac_cluster_bar_chart](./images/ac_cluster_bar_chart.png)
 
 and a p-value comparison plot:
 
-![level_2_misfits](C:\Users\USER\dev\notebooks\Udacity Data Scientist Nanodegree\Projects\SO_survey_dev_satisfaction\images\level_2_misfits.png)
+![level_2_misfits](images/level_2_misfits.png)
 
 ## File Descriptions
 
